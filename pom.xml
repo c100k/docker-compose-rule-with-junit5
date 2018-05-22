@@ -30,10 +30,6 @@
 
         <!-- Plugins Version -->
         <maven-compiler-plugin.version>3.7.0</maven-compiler-plugin.version>
-        <!--
-            http://junit.org/junit5/docs/current/user-guide/#running-tests-build-maven
-            > Due to a memory leak in Surefire 2.20, the junit-platform-surefire-provider currently only works with Surefire 2.19.1.
-        -->
         <maven-surefire-plugin.version>2.21.0</maven-surefire-plugin.version>
     </properties>
 
