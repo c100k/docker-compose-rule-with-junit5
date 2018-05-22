@@ -1,5 +1,7 @@
 # Docker Compose Rule With Junit5
 
+[![Build Status](https://travis-ci.com/c100k/docker-compose-rule-with-junit5.svg?branch=master)](https://travis-ci.com/c100k/docker-compose-rule-with-junit5)
+
 Workaround to use Docker Compose Rule with Junit5.
 
 ## Why ?
