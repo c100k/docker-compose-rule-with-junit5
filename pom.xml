@@ -22,7 +22,7 @@
 
         <!-- Dependencies Version -->
         <docker-compose-rule.version>0.32.1</docker-compose-rule.version>
-        <junit-platform.version>1.2.0-M1</junit-platform.version>
+        <junit-platform.version>1.2.0</junit-platform.version>
         <junit-jupiter.version>5.2.0</junit-jupiter.version>
         <postgresql.version>42.1.4</postgresql.version>
         <slf4j-log4j12.version>1.7.25</slf4j-log4j12.version>
