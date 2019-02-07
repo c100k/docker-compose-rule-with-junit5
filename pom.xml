@@ -8,6 +8,13 @@
     <artifactId>docker-compose-rule-with-junit5</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <repositories>
+        <repository>
+            <id>palantir</id>
+            <url>https://dl.bintray.com/palantir/releases</url>
+        </repository>
+    </repositories>
+
     <properties>
         <!-- General -->
         <jdk.version>11</jdk.version>
