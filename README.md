@@ -24,7 +24,7 @@ mvn clean install
 version: '3'
 services:
   postgres:
-    image: 'postgres:10'
+    image: 'postgres:11'
     environment:
       - POSTGRES_PASSWORD=ThisIsMySuperPassword
     ports:
@@ -35,7 +35,7 @@ services:
       timeout: 5s
       retries: 12
   nginx:
-    image: 'nginx:1.13'
+    image: 'nginx:1.15'
     ports:
       - 80
 ```
